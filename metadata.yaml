@@ -1,0 +1,29 @@
+_repo: The-Defence-of-Stonington--Connecticut--Against-a-British-Squadron-August-9th-to-12th-1814_26946
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trumbull, J. Hammond (James Hammond)
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '7917'
+    url: http://www.gutenberg.org/2009/agents/7917
+    wikipedia: http://en.wikipedia.org/wiki/James_Hammond_Trumbull
+description: ''
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26946'
+  lccn: 02017394
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Stonington (Conn.) -- History -- Bombardment, 1814'
+title: The Defence of Stonington (Connecticut) Against a British Squadron, August
+  9th to 12th, 1814
+url: http://www.gutenberg.org/ebooks/26946
